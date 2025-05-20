@@ -15,8 +15,8 @@ path = 'contracts/fill-level-monitoring.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.process-verification]
-path = 'contracts/process-verification.clar'
+[contracts.performance-analytics]
+path = 'contracts/performance-analytics.clar'
 clarity_version = 2
 epoch = 2.5
 
