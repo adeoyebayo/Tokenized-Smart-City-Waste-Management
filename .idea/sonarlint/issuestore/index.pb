@@ -7,3 +7,5 @@ T
 $contracts/fill-level-monitoring.clar,2/a/2a51e43de979628d30ea55b0d0679fe6b284c6c4
 S
 #contracts/process-verification.clar,8/e/8ea58114a3193d5ecc52595a6568f797af0a5acd
+Q
+!contracts/route-optimization.clar,0/3/038d909864c1fd35bd54b4e4486b984891d68742
